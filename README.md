@@ -17,6 +17,7 @@ you are playground owner now you are able to add your playground offer or edit i
  
 Include Credits
 GoFo application would not be established without this brilliant team members and the cooperative work done by this team; so application credits go to:
-Maryam Sayed Sadeek //githup link
+
+Maryam Sayed Sadeek https://github.com/MaryamSayed01
 Gowhara Eid Abdelghany //githup link
 Nahla Husain Ali: https://github.com/NahlaKoraiem
